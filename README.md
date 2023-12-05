@@ -1,2 +1,2 @@
 # endes_t2_examen
-Hola mundo! 
+Mi editor de texto favorito es Atom. 
